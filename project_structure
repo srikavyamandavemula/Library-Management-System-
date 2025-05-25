@@ -1,0 +1,18 @@
+library-management-system/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   ├── config/
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       └── App.js
+├── java-backend/
+├── database/
+├── diagrams/
+├── README.md
+└── output-explanation.md
