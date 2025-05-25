@@ -1,0 +1,8 @@
+{
+  "book": {
+    "title": "String",
+    "author": "String",
+    "isbn": "String",
+    "available": "Boolean"
+  }
+}
